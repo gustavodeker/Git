@@ -1,0 +1,4 @@
+teste
+entendendo o HEAD
+linha modificada no master
+Linha modificada no ramo ramoteste
